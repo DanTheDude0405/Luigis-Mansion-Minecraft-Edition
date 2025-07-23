@@ -30,4 +30,4 @@ Flashlight by **Thevayl**
 
 Music by **Nintendo** (All rights reserved)
 
-**Special thanks** to **[Dhranios](https://www.planetminecraft.com/member/dhranios/)** for inspiring this project. If you seek a gameplay-accurate version of **Luigi's Mansion**, I highly recommend checking him out.
+**Special thanks** to **[Dhranios](https://www.planetminecraft.com/member/dhranios/)** for inspiring this project.
