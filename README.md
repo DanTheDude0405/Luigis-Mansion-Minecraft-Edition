@@ -1,5 +1,3 @@
-<img width="2048" height="784" alt="Luigis-Mansion" src="https://github.com/user-attachments/assets/580eb4e8-4fa9-4a48-92f8-f24b612e25af" />
-
 # Luigi's Mansion Minecraft Edition
 
 A highly detailed and immersive recreation of **Luigi's Mansion** (2001).
